@@ -13,6 +13,6 @@ public class TestController {
 
     @RequestMapping("/telugu")
     String getGreetingInTelugu() {
-        return "Hello!, Meeru ela unnaru?";
+        return "Hello!, Meeru ela unna?";
     }
 }
